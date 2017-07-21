@@ -1,0 +1,8 @@
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\bin\Debug\netcoreapp1.1\CRUDsnippets.deps.json
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\bin\Debug\netcoreapp1.1\CRUDsnippets.runtimeconfig.json
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\bin\Debug\netcoreapp1.1\CRUDsnippets.runtimeconfig.dev.json
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\obj\Debug\netcoreapp1.1\CRUDsnippets.AssemblyInfo.cs
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\bin\Debug\netcoreapp1.1\CRUDsnippets.dll
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\bin\Debug\netcoreapp1.1\CRUDsnippets.pdb
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\obj\Debug\netcoreapp1.1\CRUDsnippets.dll
+C:\Users\geral\Documents\Visual Studio 2017\Projects\CRUDsnippets\obj\Debug\netcoreapp1.1\CRUDsnippets.pdb
